@@ -24,9 +24,10 @@
 <img src=imgs/corr>
 
 
+### Line of best fit
 
 
-
+<img src=imgs/fit>
 
 
 
