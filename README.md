@@ -17,7 +17,7 @@
 ####  Random samples (normally distributed uncorrelated) 
 
 
-<img src =imgs/uncorr>
+<img src =imgs/uncorr.png>
 
 #### Random samples (normally distributed correlated) 
 
