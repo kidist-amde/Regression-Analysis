@@ -21,13 +21,13 @@
 
 #### Random samples (normally distributed correlated) 
 
-<img src=imgs/corr>
+<img src=imgs/corr.png>
 
 
 ### Line of best fit
 
 
-<img src=imgs/fit>
+<img src=imgs/fit.png>
 
 
 
