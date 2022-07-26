@@ -17,7 +17,8 @@
 Fig 1: Generating  correlated random variables in Python
 
 <img src=imgs/2sample.png>
-### Which curve best approximates the trend on the scatter plot?
+
+###  Which curve best approximates the trend on the scatter plot?
 
 <img src=imgs/fit2.png>
 
