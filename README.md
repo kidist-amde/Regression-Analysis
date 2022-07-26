@@ -14,27 +14,23 @@
 
 
 
-####  Random samples (normally distributed uncorrelated) 
+Fig 1: Generating  correlated random variables in Python
 
-
-<img src =imgs/uncorr.png>
-
-#### Random samples (normally distributed correlated) 
-
-<img src=imgs/corr.png>
-
-
-### Line of best fit
-
+<img src=imgs/2sample.png>
+### Which curve best approximates the trend on the scatter plot?
 
 <img src=imgs/fit.png>
 
 
+ ### Fit a linear model with a quadratic term
 
+<<img src=imgs/Q.png>>
 
+## Result of quadratic predictive model
 
+<img src=imgs/h.png>
 
-
+The notebook found in the src folder. 
 
 
 # References
